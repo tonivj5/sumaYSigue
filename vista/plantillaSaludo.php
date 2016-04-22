@@ -5,6 +5,6 @@
         <title>Saludo</title>
     </head>
     <body>
-        <p><?php echo $saludo->formatSaludo(); ?></p>
+        <p><?php echo $saludo ?></p>
     </body>
 </html>
